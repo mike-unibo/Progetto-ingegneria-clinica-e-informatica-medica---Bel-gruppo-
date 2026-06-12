@@ -1,4 +1,7 @@
-##Progetto di gruppoi attività 3: sviluppo di un'interfaccia per l'esplorazione del dataset
+# Progetto di gruppo attività 3: sviluppo di un'interfaccia per l'esplorazione del dataset
+### "Bel gruppo" Brini Michele, Casadei Elisa, Cesarano Sofia, Chiapponi Simone, Gilioli Lucia
+
+*La repository riflette l'architettura effettiva del codice per l'interfaccia ed è organizzata come segue:* 
 
 Nel file **requirements.txt** sono presenti le librerie necessarie per utilizzare l'interfaccia Streamlit.
 
